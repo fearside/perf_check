@@ -22,4 +22,5 @@ Install dependencies, fill out the config/host file, consult the help menu for h
 # Disclaimer
 This application is used on your own risk, I take no responsibility how you use this application.
 This application is under development and may not be seen as the final product.
+There are alot of bugs...
 Please contribute if you wish to keep the project alive. :-)
