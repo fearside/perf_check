@@ -1,6 +1,7 @@
 # perf_check
 A lightweight python terminal/console/cli style monitor that lets you monitor other hosts via SSH.
-The script uses threads and subprocesses to enable asynchronos fetching of data.
+The application uses threads and subprocesses to enable asynchronos fetching of data.
+The application is meant to be runned as a standalone application due to its graphical output.
 
 # Dependencies
 * ConfigParser
