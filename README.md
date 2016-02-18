@@ -15,6 +15,7 @@ The application is meant to be runned as a standalone application due to its gra
 * calendar
 * itertools
 * tabulate
+* SAR(*nix measuring tool)
 * SSH keys(non-python/shell), for every host that you might want to monitor, you must exchange the SSH key for passwordless login.
 
 # Usage
