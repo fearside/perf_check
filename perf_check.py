@@ -682,7 +682,6 @@ arr_cswch = [] # Context switching stats
 arr_main_table = [] # Main output table
 arr_log_table = [] # Main logging table
 log_location = '/var/log/perf_stats_'
-#log_location = '/root/tedska/python/test_log_'
 return_code=0
 serv_count=0
 spin_count=0
