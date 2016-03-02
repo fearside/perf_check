@@ -1,5 +1,5 @@
 #!/usr/bin/python
-import ConfigParser, thread, time, subprocess, sys, os, re, resource, calendar
+import ConfigParser, thread, time, subprocess, sys, os, re, calendar
 from itertools import chain
 try:
   from tabulate import tabulate
